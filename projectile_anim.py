@@ -1,3 +1,5 @@
+# broken as of 14/12/25 @ 21:41
+
 import math
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
